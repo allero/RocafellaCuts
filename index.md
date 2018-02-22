@@ -10,4 +10,4 @@ Heres why I am the best!
 [Bio](allero.github.io/RocafellaCuts/blob/master/bio)
 
 
-[Topic](allero.github.io/RocafellaCuts/blob/master/topic)
+[Topic](https://github.com/allero/RocafellaCuts/blob/master/topic.md)
