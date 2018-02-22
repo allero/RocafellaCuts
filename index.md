@@ -7,7 +7,7 @@ Heres why I am the best!
 ![simplecut](https://github.com/allero/RocafellaCuts/blob/master/4B857E13-7AE6-4948-B9BE-F37F65292E63.jpeg)
 <http://japan.com/>
 
-[Bio](https://github.com/allero/RocafellaCuts/blob/master/bio.md)
+[Bio](https://github.com/allero/RocafellaCuts/blob/master/bio)
 
 
-[Topic](https://github.com/allero/RocafellaCuts/blob/master/topic.md)
+[Topic](https://github.com/allero/RocafellaCuts/blob/master/topic)
