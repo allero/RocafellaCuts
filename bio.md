@@ -5,4 +5,4 @@ I have fast lines, cheap prices and quality work!
 
 Wait time is only 20 minutes before each haircut.
 
-Stasfaction Guaranteed!
+##Stasfaction Guaranteed!
