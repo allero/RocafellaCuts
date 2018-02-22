@@ -1,13 +1,12 @@
 ## Rocafella Cuts
 
-You can use the [editor on GitHub](https://github.com/allero/RocafellaCuts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Do you need a fresh haircut every week? Do you have a hard time finding a good barber?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Don't worry, Rocafella The Barber is here to save the day! If you need a chop you know where to stop!
 
 ### Barbershop
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Hair cuts only take 20 minutes with very short lines.
 ```markdown
 Syntax highlighted code block
 
